@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Charles Arnold</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hello, my name is Charles.
+\n\nI love technology and writing.
+\n\nWriting was one of my very first loves of life. I also, became enamored with technology as a teen.
+\n\nFun fact is that I have wrote thousands of songs and poems.
+\n\nAs a teen, I used to write multiple songs a day.
+\n\nI have a Bachelors Degree in App Development.
+\n\nCurrently, I am taking the Android Kotlin Developer at Udacity.
+\n\nIn my spare time, I practice learning how to develop various apps to hone my skills.\n\n </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
